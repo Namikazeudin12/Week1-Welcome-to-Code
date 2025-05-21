@@ -13,8 +13,7 @@ yak Buka aja W3school dan kerjakan soal soal berikut
 // yaitu nama dan peran. Variabel peran harus memiliki isi data, 
 // bila nama kosong, pemain akan diberikan peringatan berupa "nama wajib diisi"
 // bila kosong pemain akan diberikan peringatan berupa "Pilih Peranmu untuk memulai game". 
-// Terdapat 3 peran berbeda yaitu Ksatria, Tabib, dan Penyihir. 
-// Tugas Anda adalah untuk membuat program yang mengecek isi variabel 
+// Terdapat 3 yang mengecek isi variabel 
 // peran serta mengeluarkan respon sesuai isi variabel tersebut.
 //ada 4 jenis respons sesuai dengan 3 jenis peran yaitu
 //halo Ksatria ${nama} , kamu dapat menyerang dengan senjatamu!
@@ -63,3 +62,5 @@ video biar rada paham lah, soalnya ini awal kepahitan ngoding wkwk:
 [Video tutor by Harkon](https://youtu.be/-YlMePibR6Y)
 
 *sisanya kalian googling aja ya ges yak*
+peran berbeda yaitu Ksatria, Tabib, dan Penyihir. 
+// Tugas Anda adalah untuk membuat program 
